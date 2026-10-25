@@ -1,0 +1,19 @@
+{
+  "title": "Morphosys",
+  "id": "morphosys",
+  "system": "metamorphosys",
+  "coreVersion": "13.351",
+  "compatibility": {
+    "minimum": "13",
+    "verified": "13"
+  },
+  "systemVersion": "2.0.0",
+  "lastPlayed": "Tue Apr 14 2026 19:17:07 GMT+0000 (Coordinated Universal Time)",
+  "playtime": 4604,
+  "description": "",
+  "flags": {},
+  "version": "1.0.0",
+  "url": "https://github.com/cedrictorres0427-ops/fvtt-world-morphosys",
+  "manifest": "https://github.com/cedrictorres0427-ops/fvtt-world-morphosys/releases/latest/download/world.json",
+  "download": "https://github.com/cedrictorres0427-ops/fvtt-world-morphosys/releases/download/v1.0.0/morphosys.zip"
+}
